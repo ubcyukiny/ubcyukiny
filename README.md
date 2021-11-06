@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi! I'm a third year student studying computer science @ UBC!
+
+Hopefully I can add more projects here soon!
