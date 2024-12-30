@@ -4,7 +4,6 @@
 🎓 I graduated with a B.A. in Computer Science from the University of British Columbia.  
 👨‍💻 Passionate about web development, data visualization, and creating efficient, user-friendly applications.  
 🌱 Currently learning more about DevOps, cloud technologies (AWS), and containerization (Docker).  
-🔍 Actively seeking opportunities where I can contribute and grow as part of a dynamic software development team.
 
 ### Technologies
 - **Languages**: Python, JavaScript, Java, C, C++
