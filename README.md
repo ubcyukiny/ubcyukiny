@@ -11,3 +11,12 @@
 - **Databases**: Oracle SQL, Firebase
 - **Tools**: GitHub, Jira, Slack, Figma, IntelliJ IDEA
 - **Other**: HTML, CSS, TypeScript, MUI
+
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubcyukiny/ubcyukiny/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubcyukiny/ubcyukiny/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ubcyukiny/ubcyukiny/main/dist/github-contribution-grid-snake-dark.svg" />
+</picture>
