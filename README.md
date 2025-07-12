@@ -9,24 +9,14 @@
 
 ## 🚀 My Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,php,haskell" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,php,haskell,react,d3,nodejs,tailwind" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### 🗄 Databases, Infra & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,d3,nodejs,tailwind" />
-</p>
-
-### 🗄 Databases & Infra
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,gcp,aws,docker" />
-</p>
-
-### 🔧 Tools & Testing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vitest,jest,git,github,vscode,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,gcp,aws,docker,vitest,jest,git,github,vscode,idea,figma" />
 </p>
 
 ## 📊 GitHub Stats
