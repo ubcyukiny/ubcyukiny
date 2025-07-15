@@ -5,6 +5,8 @@
 - ✅ **CompTIA Security+ certified (July 2025)**, currently studying for **AWS Cloud Practitioner**.
 - 👨‍💻 Passionate about **web development**, **data visualization**, and building efficient, user-friendly apps.
 - 🔧 Learning more about **AWS**, **Docker**, and practical **DevOps workflows**.
+- 🌱 Currently also working on: a full-stack gacha simulator and improving my D3.js data visualizations.
+
 
 
 ## 🚀 My Tech Stack
